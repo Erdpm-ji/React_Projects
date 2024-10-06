@@ -1,0 +1,21 @@
+.formcontainer{
+    height: inherit;
+    padding: 5px;
+    margin: 5px;
+    border: 2px solid gray;
+}
+
+.forminput{
+    margin: 5px;
+    padding: 5px;
+    height: 28px;
+    font-size: small;
+}
+
+.formbutton{
+    height: 30px;
+    width: 62px;
+    margin-left: 1px;
+    margin-right: 10px;
+    text-align: center;
+}

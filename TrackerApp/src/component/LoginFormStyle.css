@@ -1,0 +1,17 @@
+div{
+    border-radius: 10px;
+    background-color: aqua;
+    width: 400px;
+    border: 1px solid red;
+}
+input{
+    padding: 10px;
+    margin: 7px;
+}
+label{
+    margin: 2px;
+    padding: 2px;
+}
+h3{
+    background-color: blue;
+}

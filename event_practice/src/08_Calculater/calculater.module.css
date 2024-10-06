@@ -1,0 +1,23 @@
+.container{
+    height: 50%;
+    width: 30%;
+    border: 2px solid gray;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+}
+
+.display{
+    height: 51px;
+    width: 101%;
+    margin: -2px;
+    text-align: right;
+}
+
+.button{
+    height: 35px;
+    width: 20%;
+    margin: 5px;
+    margin-top: 10px;
+
+}

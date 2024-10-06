@@ -1,0 +1,9 @@
+.Items{
+    text-align: center;
+    font-size: 50px;
+}
+
+.plusButton{
+    margin: 5px;
+    padding: 2px;
+}

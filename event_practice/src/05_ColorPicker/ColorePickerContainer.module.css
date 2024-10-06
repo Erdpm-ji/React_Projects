@@ -1,0 +1,16 @@
+.container {
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #ccc;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.inputfield {
+    margin-top: 10px;
+    cursor: pointer;
+    width: 100px; /* Set a width for the color input */
+    height: 30px; /* Set a height for the color input */
+    border: none;
+    outline: none;
+}
